@@ -20,6 +20,7 @@
     'qweb': [
         'static/src/xml/*.xml'
     ],
+    'images': ['static/description/banner.png'],
     'installable': True,
     'auto_install': False,
 }
